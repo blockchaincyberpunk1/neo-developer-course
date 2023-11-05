@@ -1,0 +1,101 @@
+Self-Sovereign Identity: Empowering Users in the Digital Age
+
+Abstract
+
+In recent years, the issue of data privacy and identity security has become increasingly prominent in the digital landscape. With the rapid growth of internet usage, our digital identities are more vulnerable than ever before. Self-Sovereign Identity (SSI) has emerged as a revolutionary solution, offering individuals the power to manage their digital identities akin to how they do in the physical world. Public blockchain technology, known for its decentralization, presents an ideal foundation for SSI systems. Yet, the absence of standardized protocols has hindered interoperability, a significant roadblock in the adoption of blockchain technologies. Fortunately, the Self-Sovereign Identity domain is actively working to establish standards, defining digital credential structures and verification procedures.
+
+Several SSI implementations already exist, with most adhering to the standards set by the World Wide Web Consortium (W3C). These implementations represent a substantial stride towards achieving interoperability among diverse identity solutions. In essence, the system of issuing credentials becomes platform-agnostic, as long as all solutions comply with the same standards, ensuring consistent validation procedures.
+
+Within the NEO ecosystem, an open-source project powered by a vibrant community, NeoID stands out as a decentralized identity solution. It empowers individuals and organizations to regain control of their identities, reinforcing trust and security within the smart economy. To stimulate the adoption of Self-Sovereign Identities, it is crucial not only to equip users with the tools to manage their credentials but also to promote broader integration of SSI functionalities into various decentralized applications (dApps). This is the overarching vision behind Seraph ID, positioned as a critical component of the NeoID project. Seraph ID leverages its functionalities to facilitate Self-Sovereign Identity usage for both end-users and entities building applications on the NEO platform.
+
+Introduction
+
+1.1 Identity History
+
+The concept of identity documentation dates back to 1414 when King Henry V of England introduced an early form of what we now recognize as a passport. For the following five centuries, most individuals did not require or possess such identification. The need for photographic identity documents only arose in 1915 when the British government mandated them. As technology advanced, identity documents evolved into electronic and digital formats. Emerging technologies, like biometrics such as fingerprints and retina measurements, further influenced identification methods. In recent years, various forms of identity have emerged, with Self-Sovereign Identity, based on blockchain technology, representing the most recent and privacy-centric solution.
+
+1.2 Introduction to Privacy & Shifting Behavior
+
+Today, nearly 40% of the world's population has internet access, a number that continues to grow. With more users comes an increasing volume of data shared and stored online, including highly sensitive identity information. This data is often scattered across global data centers, making it susceptible to cyberattacks. Alarming statistics, such as the Breach Level Index's report of 269,435 data records lost or stolen online every hour, underscore the gravity of the situation. The cost of cybercrimes is also rising, with predictions that global cybercrime costs will exceed $2 trillion in 2019. Users' concerns about the security of their online data are well-founded, as evidenced by surveys indicating that hacking of personal banking information is the top privacy concern for many.
+
+User behavior is shifting towards more secure and decentralized methods of storing personal and private data, driven by the desire to protect against hacking, data theft, and identity theft.
+
+1.3 Challenges
+
+In a world where almost all companies manage data, a fundamental question arises: How can identity be managed securely on the internet? To address this challenge, companies are seeking alternatives to traditional login methods and digital identity systems. Self-Sovereign Identity presents a sustainable solution that enables governments and organizations to redefine how people are identified on the internet and in their daily lives.
+
+Self-Sovereign Identity in Brief
+
+In the physical world, individuals carry various credentials such as driver's licenses, credit cards, gym memberships, and national IDs. These physical credentials are presented to third parties to verify claims about individuals (e.g., age, citizenship), and manual checks are used to validate their authenticity.
+
+In the digital world, achieving similar capabilities is more complex, often requiring specific integrations between verifiers and issuers, such as in federated identity solutions or through standards like OAuth 2.0 or OpenID Connect. However, this centralizes identity data and increases privacy risks.
+
+Self-Sovereign Identity aims to address these challenges by decentralizing identity management. It empowers individuals to control their own identity data and selectively share it with third parties as needed. Blockchain technology plays a key role in enabling this process by allowing digital credentials to be validated online in a manner similar to passport verification.
+
+2.1 Standards
+
+To bring the benefits of the physical world to the digital realm and enable easy validation of various credentials, shared standards are essential. W3C working groups are actively developing these standards, including definitions of digital credentials and validation procedures.
+
+Seraph ID
+
+3.1 Why NEO?
+
+NEO's vision revolves around creating a Smart Economy, consisting of digital assets, digital identity, and smart contracts. Self-Sovereign Identity aligns well with this vision and can enhance the NEO ecosystem's functionality. Seraph ID, as part of the NeoID project, aims to contribute to this vision by providing tools for Self-Sovereign Identity usage within the NEO ecosystem.
+
+Seraph ID not only empowers end-users with identity management tools but also encourages wider adoption of SSI functionalities in NEO-based dApps.
+
+3.2 Seraph ID Actors
+
+Seraph ID introduces four key roles within its model:
+
+Issuer: An entity that asserts claims about one or more subjects, creates verifiable credentials, and transmits them to holders.
+Verifier: An entity that receives and processes verifiable presentations, typically in its role as a relying party.
+Holder: An entity that possesses verifiable credentials, which may or may not be about themselves.
+ROT-Manager (Root-of-Trust Manager): An entity governing an SSI network, defining rules for participant onboarding and network participation.
+SSI Network and ROT-Managers
+
+Seraph ID is designed to allow the creation of individualized SSI networks to cater to specific business cases. These networks are formed when entities agree to trust each other and establish specific roles within the network. Trust is established through real-world agreements and adherence to defined business and legal rules. These entities can be thought of as forming an SSI network, a group of entities that trust each other to issue and validate claims. How these offline agreements are reached is determined by the involved parties based on their specific business needs.
+
+While anyone can create their own distributed SSI network and define their own rules, Seraph ID encourages the use of ROT-Managers (Root-of-Trust Managers). ROT-Managers can onboard other entities and leverage the trust they've established to extend trust to the parties they onboard. This helps distribute trust throughout the network, fostering growth and trust-building among participants.
+
+Seraph ID Characteristics
+
+5.1 Identity Uniqueness
+
+Seraph ID defines decentralized identifiers (DIDs) for NEO, ensuring uniqueness and portability. DIDs are portable identifiers associated with entities and subjects, making it easy to move credentials between repositories without reissuing them.
+
+5.2 Security
+
+Seraph ID leverages blockchain technology to ensure the security and immutability of credentials. It also incorporates cryptographic techniques to protect the privacy of credential holders.
+
+5.3 User-Centric
+
+Seraph ID is designed to be user-centric, allowing individuals to control their own identity data and decide who gets access to it. This approach aligns with the principles of Self-Sovereign Identity.
+
+5.4 Interoperability
+
+Interoperability is a critical aspect of Self-Sovereign Identity. Seraph ID adheres to W3C standards, ensuring that it can interoperate with other SSI solutions that follow the same standards.
+
+5.5 Verifiable Credentials
+
+Seraph ID utilizes verifiable credentials, which are standardized data formats that can represent various types of claims. These credentials are created by issuers and can be presented to verifiers.
+
+5.6 Open Source
+
+Seraph ID is an open-source project, allowing the community to contribute to its development and ensuring transparency in its codebase.
+
+Conclusion
+
+In conclusion, Self-Sovereign Identity is a groundbreaking concept that addresses the growing concerns regarding digital identity and data privacy. As our lives become increasingly intertwined with the digital realm, the need for secure and user-centric identity management solutions is more pressing than ever.
+
+The digital world has witnessed significant shifts in user behavior, with individuals becoming more aware of the risks associated with centralized identity management. The demand for decentralized and self-sovereign identity solutions is on the rise, driven by the desire for greater control, privacy, and security.
+
+Public blockchain technology, known for its decentralized and tamper-resistant nature, provides an ideal foundation for Self-Sovereign Identity systems. However, achieving widespread adoption of SSI has been hindered by the lack of standardized protocols and interoperability between different identity solutions.
+
+Fortunately, the Self-Sovereign Identity domain is actively working to address these challenges by establishing standards and protocols that define digital credential structures and verification procedures. These standards are crucial in ensuring that SSI systems can seamlessly interact with each other, regardless of the underlying blockchain or technology.
+
+In the context of the NEO ecosystem, Seraph ID, as part of the NeoID project, emerges as a significant player. It aligns with NEO's vision of a Smart Economy by offering individuals and organizations the tools to manage their digital identities securely and efficiently.
+
+By empowering users with control over their identity data and promoting interoperability among various NEO-based decentralized applications, Seraph ID fosters trust and security within the NEO ecosystem. Its commitment to open-source development ensures transparency and community involvement in shaping the future of Self-Sovereign Identity.
+
+As the Self-Sovereign Identity landscape continues to evolve, solutions like Seraph ID are poised to play a crucial role in reshaping how we manage and protect our digital identities. By adhering to standards, prioritizing user-centric design, and championing privacy and security, Seraph ID and similar SSI solutions contribute to a more secure, user-controlled, and trustworthy digital identity ecosystem.

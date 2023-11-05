@@ -1,0 +1,37 @@
+Complex NEO dApp Development (Optional)
+
+Objective: To challenge students with advanced dApp development on the NEO blockchain.
+
+Task: For students opting for the optional assignment, challenge them to develop a complex dApp on the NEO blockchain. This dApp should offer advanced features beyond the basics, such as integration with multiple smart contracts, decentralized storage, or complex user interactions. Students should submit both the dApp code and comprehensive documentation explaining its functionalities.
+
+Instructions:
+
+Step 1: Concept Proposal (10 points)
+
+Instruct students to propose an advanced dApp concept for this assignment.
+The concept should include details on the dApp's purpose, target users, and innovative features or functionalities.
+Encourage students to explain why their chosen concept is considered advanced compared to the previous assignments.
+Step 2: Development (40 points)
+
+Challenge students to develop the advanced dApp according to the proposed concept.
+They should utilize NEO smart contracts and APIs effectively to implement the dApp's complex features.
+Emphasize the importance of code organization, clarity, and maintainability in a complex project.
+Step 3: Comprehensive Documentation (30 points)
+
+Instruct students to create detailed documentation that explains the dApp's functionalities and how it interacts with the NEO blockchain.
+The documentation should include:
+Architectural diagrams if applicable.
+Explanations of how the dApp handles complex processes.
+A user guide demonstrating how to use the dApp.
+Any additional technical information relevant to understanding the dApp's complexity.
+Step 4: Presentation (20 points)
+
+Have students present their advanced dApps to the class.
+Encourage them to showcase the innovative features, complex interactions, and how the dApp benefits users or the NEO ecosystem.
+Peer evaluation can be included in the presentation assessment.
+Grading Criteria:
+
+Completeness and effectiveness of the advanced dApp's features.
+Clarity and quality of the comprehensive documentation.
+Ability to effectively present and explain the dApp's complexity.
+Alignment of the dApp with the proposed concept and objectives.

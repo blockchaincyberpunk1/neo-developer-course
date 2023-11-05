@@ -1,0 +1,36 @@
+NEO Smart Contract Language Exploration
+
+Objective: To explore NEO's smart contract programming languages.
+
+Task: Allow students to choose one of NEO's supported languages for smart contract development (e.g., C# or Python). Ask them to research and write a comparison between the chosen language and another popular blockchain smart contract language (e.g., Solidity for Ethereum). Students should discuss the syntax, features, and advantages of their chosen NEO language.
+
+Instructions:
+
+Step 1: Language Selection (10 points)
+
+Instruct students to choose one of the NEO-supported smart contract languages, such as C# or Python. They should inform you of their choice.
+Step 2: Research and Comparison (35 points)
+
+Ask students to research and gather information on the following aspects of their chosen NEO smart contract language:
+Syntax: Explain the syntax rules and conventions of the chosen language.
+Features: Describe unique features or capabilities that set the NEO language apart.
+Advantages: Discuss the advantages and potential use cases of the chosen NEO language in contrast to another blockchain language, such as Solidity for Ethereum.
+Step 3: Comparison to a Competing Language (25 points)
+
+Instruct students to choose a popular blockchain smart contract language other than the one they selected for NEO (e.g., Solidity).
+Encourage them to compare and contrast their chosen NEO language with the competing language in terms of syntax, features, and suitability for different types of applications.
+Step 4: Real-World Examples (15 points)
+
+Ask students to find or create simple code examples in both their chosen NEO language and the competing language to illustrate the syntax and features discussed.
+These examples should be concise and focused on demonstrating key differences or advantages.
+Step 5: Conclusion and Reflection (15 points)
+
+Request students to summarize their findings and provide a conclusion regarding the strengths and potential limitations of their chosen NEO smart contract language.
+Encourage them to reflect on scenarios where their chosen NEO language would be the preferred choice.
+Grading Criteria:
+
+Depth of research into the chosen NEO smart contract language.
+Clarity and thoroughness of the comparison between the NEO language and a competing language.
+Quality and relevance of real-world code examples.
+Insightful reflection on the advantages and suitability of the NEO language.
+Overall quality and organization of the comparison essay.

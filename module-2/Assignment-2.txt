@@ -1,0 +1,36 @@
+NEO Architecture Deep Dive
+
+Objective: To understand the technical components of the NEO blockchain.
+
+Task: Assign students to research and create an architectural diagram of the NEO blockchain. They should explain the roles and functions of various components, including consensus nodes, validation nodes, and the NEO blockchain explorer. Students should also discuss NEO's consensus mechanism (e.g., dBFT).
+
+Instructions:
+
+Step 1: Research NEO Architecture (25 points)
+
+Instruct students to research and gather detailed information about the architecture of the NEO blockchain. Key areas to cover include:
+Consensus nodes and their roles.
+Validation nodes and their functions.
+NEO blockchain explorer and its features.
+NEO's consensus mechanism, such as dBFT (Delegated Byzantine Fault Tolerance).
+Step 2: Create an Architectural Diagram (35 points)
+
+Ask students to create a clear and detailed architectural diagram of the NEO blockchain. They can use diagramming tools like draw.io, Lucidchart, or similar software.
+The diagram should visually represent the components mentioned in the research, showing their connections and interactions.
+Step 3: Explanatory Document (20 points)
+
+Instruct students to provide an explanatory document alongside the architectural diagram. The document should explain the roles and functions of each component within the diagram.
+It should also include information about how NEO's consensus mechanism (dBFT) operates and why it is essential to NEO's architecture.
+Step 4: Presentation (10 points)
+
+Students should present their architectural diagrams and explanations to the class. This can be done in person or through virtual presentations, depending on the course format.
+Step 5: Q&A and Discussion (10 points)
+
+Encourage a Q&A session and group discussion after each presentation to clarify doubts and promote understanding among students.
+Grading Criteria:
+
+Completeness and accuracy of architectural diagram.
+Clarity and comprehensiveness of the explanatory document.
+Inclusion of all relevant components and their functions.
+Understanding and explanation of NEO's consensus mechanism (dBFT).
+Quality of the presentation and participation in the discussion.

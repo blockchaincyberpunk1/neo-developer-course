@@ -1,0 +1,37 @@
+Smart Contract Use Cases
+
+Objective: To explore real-world applications of NEO smart contracts.
+
+Task: Assign students to research and select a specific use case for NEO smart contracts (e.g., tokenization of assets, supply chain management). They should write a detailed report or create a presentation explaining how smart contracts can be applied to solve a real-world problem in their chosen domain. Students should provide examples and potential benefits.
+
+Instructions:
+
+Step 1: Use Case Selection (10 points)
+
+Allow students to choose a specific domain or industry (e.g., real estate, healthcare, gaming) that interests them.
+Encourage them to research and identify a real-world problem or inefficiency within the chosen domain.
+Step 2: Smart Contract Proposal (20 points)
+
+Instruct students to propose a NEO smart contract solution that addresses the problem they identified.
+Guide them in defining the key features and functionalities of the smart contract.
+Ensure they describe how the smart contract will interact with users and other entities within the domain.
+Step 3: NEO Smart Contract Development (20 points)
+
+Although this assignment does not require students to implement the smart contract, they should provide a high-level overview of how it might be developed.
+Encourage them to discuss which NEO features and programming languages (e.g., C#, Python) might be suitable for their proposed smart contract.
+Step 4: Use Case Analysis (30 points)
+
+Instruct students to conduct a comprehensive analysis of their chosen use case and smart contract proposal.
+Ask them to provide real-world examples of how the smart contract could be applied and the potential benefits it offers.
+Ensure they discuss any challenges or limitations that might arise when implementing the smart contract.
+Step 5: Report or Presentation (20 points)
+
+Require students to create a detailed report or presentation that effectively communicates their findings.
+Emphasize the importance of clear and concise communication of complex ideas.
+Encourage them to use visuals, diagrams, or flowcharts to enhance their presentation.
+Grading Criteria:
+
+Relevance and significance of the chosen use case.
+Clarity and feasibility of the smart contract proposal.
+Depth of analysis and understanding of the domain.
+Quality of the report or presentation.

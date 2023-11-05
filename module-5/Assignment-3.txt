@@ -1,0 +1,32 @@
+Frontend Development
+
+Objective: To introduce students to frontend development for NEO dApps.
+
+Task: Challenge students to develop a frontend interface for their dApp using web technologies like HTML, CSS, and JavaScript. They should design the user interface to interact with the smart contract created in Assignment 2. The frontend should allow users to perform key actions related to the dApp's functionality.
+
+Instructions:
+
+Step 1: Frontend Development (60 points)
+
+Encourage students to design and develop a user-friendly frontend interface for their NEO dApp.
+The frontend should be implemented using standard web development technologies, including HTML, CSS, and JavaScript.
+Students should create the necessary web pages, user interface elements, and forms to enable interaction with the smart contract.
+Step 2: Integration with Smart Contract (20 points)
+
+Instruct students to ensure that the frontend is seamlessly integrated with the smart contract created in Assignment 2.
+Users should be able to interact with the smart contract through the frontend, such as submitting transactions, querying data, or performing relevant actions.
+Step 3: User Documentation (10 points)
+
+Ask students to provide user documentation or instructions explaining how to use the frontend interface.
+This documentation should guide users through the process of interacting with the dApp via the frontend, including any essential steps and actions.
+Step 4: Testing (10 points)
+
+Encourage students to thoroughly test the functionality and usability of their frontend.
+While not mandatory for this assignment, students can optionally include information about the testing process and any refinements made based on user testing.
+Grading Criteria:
+
+Completeness and correctness of the frontend code.
+User-friendly design and ease of navigation in the frontend interface.
+Integration of the frontend with the smart contract.
+Clarity and completeness of user documentation.
+Optional considerations of usability testing and refinements.

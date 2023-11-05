@@ -1,0 +1,47 @@
+Neo Ecosystem Support: Fostering Growth and Innovation
+
+Introduction
+
+The blockchain ecosystem is constantly evolving, with projects seeking to harness the transformative power of this technology. NEO, a leading blockchain platform, recognizes the importance of supporting and nurturing a thriving ecosystem. To this end, NEO has introduced a range of support tracks designed to cater to the diverse needs of projects at various stages of development. Whether you are a grassroots developer, a startup, an established business, or an educational institution, NEO has a support program tailored for you. In this essay, we will explore the NEO ecosystem support initiatives, highlighting their significance and the opportunities they present for blockchain enthusiasts and businesses.
+
+The NEO Ecosystem Support Tracks
+
+1. EcoBoost:
+
+Suitable for: A small team with many seed users, a medium-sized business, an institution or education platform, a wallet or trading platform with existing users.
+Key Features: EcoBoost, initiated as a part of the Neo Global Development EcoGrowth department, is a US $100 million initiative aimed at bolstering the NEO ecosystem. This program works in collaboration with a network of partners to provide full lifecycle support for promising projects. Partners with different expertise, such as media, exchanges, and institutions, offer tailored assistance to Neo-based projects. This support encompasses areas such as outreach, liquidity stimulation, and industry resources.
+How to Apply: Projects or organizations eligible for EcoBoost support can apply by providing information about their project, team, goals, and the type of support they require.
+2. EcoFund:
+
+Suitable for: Established blockchain-based businesses deeply connected to the Neo ecosystem, projects with a viable revenue model, teams seeking funding in exchange for equity or tokens.
+Key Features: Neo EcoFund is an investment fund established by the Neo Foundation to provide diversified support to the Neo ecosystem while generating long-term value. It invests in private equity and unlisted projects, manages crypto assets, and incubates portfolio projects. The fund focuses on infrastructure, dApps with viable business models, and potential blockchain ecosystem projects that can collaborate with Neo.
+How to Apply: Eligible projects or organizations can apply for EcoFund support by providing information about their project, team, goals, and funding requirements.
+3. Early Adoption Program:
+
+Suitable for: Projects interested in developing on Neo N3, those looking to deploy first-to-market dApps on Neo N3, developers creating early proof-of-concepts (POCs) to test Neo N3 capabilities.
+Key Features: The Early Adoption Program, running from June to December 2021, aims to encourage the development of projects on Neo N3. It offers financial support, high-priority technical assistance, and other support to teams based on the project's size, track record, and vision. The program seeks to revitalize the Neo developer community, assist existing Neo projects with migration, and rapidly establish Neo N3's infrastructure.
+How to Apply: Eligible projects can apply for the Early Adoption Program by presenting their project details, team composition, vision, and how they plan to leverage Neo N3.
+4. General Grants:
+
+Suitable for: Experienced development teams with advanced blockchain knowledge interested in building tools and infrastructure to advance the Neo ecosystem, capable of providing long-term support to their projects.
+Key Features: The Neo General Grants Program focuses on funding projects that enhance the Neo Blockchain's tools and infrastructure. This includes developer tools, node improvements, layer2 protocols, IDE plugins, and infrastructure protocols. Grants typically range from $5,000 to $100,000 and are awarded based on project importance, feasibility, and developer-friendliness. Projects are expected to be completed within 6 months.
+How to Apply: Eligible teams can apply for General Grants by providing detailed information about their team, project, goals, challenges, and budget plan.
+5. Core Developer Grants:
+
+Suitable for: Experts in blockchain architecture, cryptography, distributed systems, and other related fields, open-source developers, those interested in advancing Neo's core protocol.
+Key Features: Core Developer Grants are designed to reward developers who make outstanding contributions to the Neo core codebase. Core Developers actively participate in Neo's technical decisions and receive financial rewards for their contributions. The grant consists of a Contribution Reward and a Fellowship Reward. Contribution Reward is based on active contributions to specific Neo repositories, while Fellowship Reward provides a monthly stipend.
+How to Apply: Aspiring Core Developers can apply by demonstrating their contributions to Neo's GitHub repositories and meeting the program's requirements.
+6. Research Grants:
+
+Suitable for: Academic institutions, research institutes, individuals, or groups with expertise in specialized fields relevant to Neo's vision and roadmap.
+Key Features: Neo Foundation sponsors applied research in areas aligned with Neo's vision. Research topics include consensus algorithms, cryptography, scalability, privacy, and more. Grants typically range from $10,000 to $100,000, with the expectation that research results will benefit the Neo Blockchain.
+How to Apply: Interested applicants can submit research proposals, detailing the research topic, project introduction, team background, roadmap, and budget plan.
+Supporting Projects and Organizations
+
+Neo's commitment to fostering quality projects is evident in its support for various groups and organizations. Some of the recent projects and organizations that have benefited from Neo's ecosystem support include Switcheo, O3, Liquefy, NeoLine, Bittrex, and more. These projects represent a diverse range of applications, from decentralized exchanges to wallets and educational platforms.
+
+Conclusion
+
+The NEO ecosystem support programs are a testament to NEO's dedication to nurturing innovation and growth within the blockchain space. By offering tailored support for projects at different stages of development, NEO encourages developers and businesses to explore the vast potential of blockchain technology. Whether you are a small startup with a groundbreaking idea or an established business looking to integrate blockchain, NEO's support tracks provide a clear path to success.
+
+As the blockchain industry continues to evolve, NEO remains at the forefront, actively seeking out and supporting projects that contribute to the growth and adoption of blockchain technology. Through these support initiatives, NEO invites individuals and organizations to join them in shaping the future of the smart economy and blockchain innovation. The NEO ecosystem is not just about technology; it's about fostering a thriving community of blockchain enthusiasts and visionaries.

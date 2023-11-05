@@ -1,0 +1,42 @@
+dApp Concept Proposal
+
+Objective: To encourage students to brainstorm and plan a NEO decentralized application (dApp) concept.
+
+Task: In this assignment, students will propose an idea for a NEO decentralized application (dApp). They should provide a detailed description of the dApp's purpose, target users, and potential impact. Additionally, students should outline the essential features and functionalities of the dApp. This assignment is focused on idea generation and initial planning.
+
+Instructions:
+
+Step 1: dApp Concept Description (20 points)
+
+Instruct students to provide a clear and concise description of their proposed dApp concept.
+Encourage them to explain what problem the dApp aims to solve or what value it brings to users.
+Ensure that students address why they believe this dApp is relevant and important in the NEO ecosystem.
+Step 2: Target Audience (10 points)
+
+Ask students to identify the target audience or user base for their dApp.
+They should describe the characteristics of the users who will benefit from or interact with the dApp.
+Step 3: Essential Features and Functionalities (30 points)
+
+Guide students to outline the key features and functionalities of their dApp.
+Encourage them to think about what actions users can perform within the dApp and how these actions align with the dApp's purpose.
+Step 4: Use of NEO Blockchain (20 points)
+
+Instruct students to explain how their dApp will leverage the NEO blockchain's capabilities.
+They should describe which NEO features or technologies (e.g., NEO smart contracts, NEOVM) they plan to use and why.
+Step 5: Potential Impact (20 points)
+
+Encourage students to reflect on the potential impact of their dApp.
+How will it contribute to the NEO ecosystem or address specific challenges?
+Students should consider both short-term and long-term impacts.
+Step 6: Presentation (10 points)
+
+Ask students to present their dApp concept in a clear and organized manner.
+They can use slides, documents, or any format that facilitates communication.
+Grading Criteria:
+
+Clarity and completeness of the dApp concept description.
+Identification of the target audience and their needs.
+Well-defined essential features and functionalities.
+Thoughtful consideration of the use of NEO blockchain technology.
+Consideration of the potential impact of the dApp.
+Quality of the presentation and communication.

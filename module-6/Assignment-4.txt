@@ -1,0 +1,44 @@
+Developing a NEO dApp Using SDK
+
+Objective: To apply knowledge of NEO APIs and SDKs to real-world development.
+
+Task: Challenge students to develop a decentralized application (dApp) on the NEO blockchain using one of the NEO SDKs. The dApp should have a specific purpose and utilize the NEO blockchain for smart contract interactions. Students should submit both the dApp code and documentation explaining its functionality.
+
+Instructions:
+
+Step 1: Choose a dApp Idea (20 points)
+
+Task students with brainstorming and selecting a dApp idea that leverages the NEO blockchain.
+Encourage creativity and originality in choosing the dApp's purpose and functionality.
+Step 2: Select a NEO SDK (15 points)
+
+Instruct students to choose one of the NEO SDKs (e.g., NEO•ONE, NeoFS, or other available options) for dApp development.
+Provide guidance on setting up the selected SDK.
+Step 3: dApp Development (40 points)
+
+Challenge students to develop the selected dApp using the chosen NEO SDK.
+The dApp should demonstrate the following:
+Interaction with NEO smart contracts.
+User-friendly features and interfaces.
+Functionalities that align with the chosen dApp idea.
+Students should adhere to best practices for smart contract development and user experience design.
+Step 4: Documentation (15 points)
+
+Ask students to create comprehensive documentation for their dApp.
+Documentation should include the following:
+Explanation of the dApp's purpose and functionality.
+Step-by-step instructions on how to use the dApp.
+Code explanations and comments.
+Descriptions of interactions with NEO smart contracts.
+Any challenges encountered during development and how they were addressed.
+Step 5: Testing and Debugging (10 points)
+
+Encourage students to thoroughly test their dApp to identify and address any bugs or issues.
+Emphasize the importance of debugging and quality assurance.
+Grading Criteria:
+
+Creativity and relevance of the chosen dApp idea.
+Effective use of the selected NEO SDK for dApp development.
+Functionality and usability of the dApp.
+Clarity and completeness of the documentation.
+Successful testing and debugging efforts.

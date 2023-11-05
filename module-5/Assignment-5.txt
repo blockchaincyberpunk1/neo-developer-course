@@ -1,0 +1,38 @@
+User Experience and Testing
+
+Objective: To focus on user experience (UX) and testing of the NEO dApp.
+
+Task: Ask students to optimize the user experience of their dApp by refining the user interface and ensuring smooth interactions with the smart contract. They should also conduct testing to identify and resolve any bugs or issues. Students should submit the final version of their dApp, along with a report detailing the testing process and improvements made.
+
+Instructions:
+
+Step 1: UX Improvements (40 points)
+
+Instruct students to conduct a thorough review of the user interface (UI) of their NEO dApp (front end).
+Task them with making UX improvements to enhance user friendliness, visual design, and overall usability.
+Encourage students to gather feedback from potential users or peers to identify pain points and areas for improvement.
+They should implement these improvements and provide a brief explanation of the changes made.
+Step 2: Functional Testing (30 points)
+
+Require students to perform functional testing of their dApp. This should include testing the core functionalities to ensure they work as expected.
+Students should create test cases for critical functions of their dApp and demonstrate that these test cases pass successfully.
+Any identified bugs or issues should be documented and addressed.
+Step 3: Security Testing (20 points)
+
+Emphasize the importance of security by instructing students to perform security testing.
+Encourage them to explore potential vulnerabilities in their dApp and, if applicable, demonstrate how they have mitigated these vulnerabilities.
+Security testing should include considerations for smart contract security and data privacy.
+Step 4: Performance Testing (10 points)
+
+Have students conduct performance testing to evaluate how their dApp performs under different conditions, including high loads or network congestion.
+They should document the results of these tests and any optimizations made to improve performance.
+Step 5: Report (20 points)
+
+Ask students to compile a comprehensive report summarizing their UX improvements, testing processes, and outcomes.
+The report should include explanations of UX changes, detailed descriptions of test cases, any identified issues, and resolutions.
+Encourage students to reflect on what they have learned through the testing and improvement process.
+Grading Criteria:
+
+Quality and effectiveness of UX improvements.
+Thoroughness and success of functional, security, and performance testing.
+Completeness and clarity of the report, including documentation of improvements and testing results.

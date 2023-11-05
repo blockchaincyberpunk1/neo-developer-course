@@ -1,0 +1,39 @@
+NEO dApps Research
+
+Objective: To explore decentralized applications (dApps) built on the NEO platform.
+
+Task: Ask students to select one or more NEO-based dApps (e.g., NFT marketplaces, DeFi projects) and analyze them. They should provide an overview of the selected dApp(s), explain how they leverage NEO's features, and evaluate their potential impact on the blockchain ecosystem.
+
+Instructions:
+
+Step 1: Introduction to NEO dApps (10 points)
+
+Start by introducing students to the concept of decentralized applications (dApps) and their significance in the blockchain space.
+Provide an overview of NEO's approach to dApp development and its unique features that support dApps.
+Step 2: Choosing NEO-based dApps (10 points)
+
+Instruct students to research and select one or more NEO-based decentralized applications. They can explore various categories such as NFT marketplaces, DeFi projects, gaming, or any other domain of interest.
+Encourage them to choose dApps with different use cases and functionalities.
+Step 3: Analysis of Selected dApp(s) (40 points)
+
+Ask students to analyze the chosen dApp(s) in detail. They should provide the following information:
+Overview of the dApp, including its purpose and functionality.
+Explanation of how the dApp leverages NEO's features and advantages.
+Evaluation of the dApp's user experience, performance, and security.
+Discussion of any notable features or innovations in the dApp.
+Step 4: Impact Assessment (20 points)
+
+Instruct students to evaluate the potential impact of the selected dApp(s) on the blockchain ecosystem and their respective industries.
+Encourage them to consider factors such as adoption, scalability, and community engagement.
+Step 5: Presentation and Submission (20 points)
+
+Ask students to prepare a report or presentation summarizing their research findings and analysis.
+Each student or group of students should present their chosen dApp(s) to the class, highlighting key points from their research.
+Students should submit their reports or presentation slides along with any additional documentation.
+Grading Criteria:
+
+Selection of relevant NEO-based dApp(s).
+Depth and accuracy of the dApp analysis.
+Insightful evaluation of the dApp's impact.
+Clarity and quality of the presentation or report.
+Active participation in the presentation.

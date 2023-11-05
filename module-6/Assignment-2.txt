@@ -1,0 +1,37 @@
+dBFT Consensus Model
+
+Objective: To deepen students' understanding of NEO's consensus mechanism.
+
+Task: Ask students to research and write a report on the delegated Byzantine Fault Tolerance (dBFT) consensus mechanism used by NEO. They should explain how dBFT works, its advantages, and its role in ensuring the security and reliability of the NEO blockchain. Students can include diagrams and examples to illustrate key concepts.
+
+Instructions:
+
+Step 1: Research dBFT Consensus (30 points)
+
+Instruct students to research and study the delegated Byzantine Fault Tolerance (dBFT) consensus mechanism used by NEO.
+They should explore relevant resources, NEO's official documentation, research papers, and articles to gain a comprehensive understanding of dBFT.
+Step 2: Report Writing (40 points)
+
+Task students with writing a report that explains the dBFT consensus mechanism.
+The report should cover the following aspects:
+An overview of what dBFT is and how it works.
+The role of validators and consensus nodes in dBFT.
+How dBFT ensures security and Byzantine fault tolerance.
+Advantages and disadvantages of the dBFT consensus model.
+Real-world examples or use cases of dBFT in action.
+Diagrams, charts, or illustrations to visualize key concepts.
+Encourage students to use clear and concise language, and to provide explanations that can be understood by a non-technical audience.
+Step 3: Comparison (20 points)
+
+Ask students to compare dBFT with other consensus mechanisms used in blockchain networks (e.g., Proof of Work, Proof of Stake).
+They should highlight the unique features and benefits of dBFT compared to other consensus models.
+Step 4: Reflection (10 points)
+
+Conclude the report by asking students to reflect on the significance of dBFT in NEO's blockchain ecosystem.
+They should discuss its impact on NEO's scalability, performance, and security.
+Grading Criteria:
+
+Quality and depth of research on dBFT consensus.
+Clarity and completeness of the report, including explanations, diagrams, and examples.
+Thoughtful comparison of dBFT with other consensus mechanisms.
+Reflection on the significance of dBFT for NEO.

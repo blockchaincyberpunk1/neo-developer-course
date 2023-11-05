@@ -1,0 +1,33 @@
+NEO API Exploration
+
+Objective: To familiarize students with NEO APIs and SDKs.
+
+Task: Instruct students to explore the available APIs and SDKs provided by NEO. They should choose one or more APIs/SDKs and demonstrate their usage by developing a simple application or script. This assignment helps students understand how to interact programmatically with the NEO blockchain.
+
+Instructions:
+
+Step 1: Choose NEO APIs/SDKs (20 points)
+
+Provide students with a list of NEO APIs and SDKs, including options for different programming languages (e.g., JavaScript, Python, C#).
+Instruct students to choose at least one NEO API or SDK that aligns with their programming language proficiency or interests.
+They should briefly explain why they selected the chosen API/SDK and how they plan to use it.
+Step 2: API/SDK Exploration and Documentation (40 points)
+
+Ask students to explore the chosen NEO API/SDK thoroughly.
+They should document the available features, functions, and capabilities provided by the API/SDK.
+Encourage students to provide clear and concise explanations and code samples for each documented feature.
+Step 3: Develop a Simple Application or Script (30 points)
+
+Task students with creating a simple application or script that utilizes the chosen NEO API/SDK.
+The application/script should perform a basic blockchain-related task, such as querying blockchain data, sending transactions, or interacting with a NEO smart contract.
+Students should provide the source code and a brief description of the application/script's functionality.
+Step 4: Report (10 points)
+
+Ask students to write a report summarizing their experience with the NEO API/SDK exploration and development.
+The report should include an introduction to the chosen API/SDK, details about the developed application/script, and any challenges or insights gained during the process.
+Encourage students to reflect on the relevance and potential use cases of the chosen API/SDK.
+Grading Criteria:
+
+Completeness and accuracy of API/SDK exploration and documentation.
+Functionality and correctness of the developed application/script.
+Quality and clarity of the report, including reflections on the chosen API/SDK.

@@ -1,0 +1,50 @@
+Assignment 1: Exploring Cryptocurrencies
+
+Objective: To understand the relationship between cryptocurrencies and blockchain.
+
+Task: Assign students to choose a specific cryptocurrency (e.g., Bitcoin, Ethereum, Litecoin) and research its history, technology, and use cases. They should create a presentation or report highlighting the unique features and challenges of the chosen cryptocurrency and how it utilizes blockchain technology.
+
+Instructions:
+
+Step 1: Cryptocurrency Selection (10 points)
+
+Instruct students to select a specific cryptocurrency for their assignment. They can choose from well-known cryptocurrencies like Bitcoin, Ethereum, Ripple, or Litecoin, or opt for a less mainstream one if they have a particular interest.
+Step 2: Research (30 points)
+
+Students should conduct thorough research on the chosen cryptocurrency. Encourage them to explore the following aspects:
+The history of the cryptocurrency, including its creation and founders.
+The underlying blockchain technology and its key features.
+Use cases and real-world applications.
+Notable milestones or events related to the cryptocurrency.
+Challenges and criticisms the cryptocurrency has faced.
+Step 3: Presentation or Report (30 points)
+
+Depending on your course format, students can choose to create either a presentation or a report. Provide guidelines for both formats:
+
+For a Presentation (Visual Format):
+
+Students should create a visually appealing presentation (e.g., PowerPoint, Google Slides) summarizing their research findings.
+The presentation should include slides on the cryptocurrency's history, technology, use cases, challenges, and notable events.
+Students should use visuals, diagrams, and charts to enhance the presentation.
+For a Report (Text Format):
+
+Students should write a detailed report that covers all aspects of their research.
+The report should be well-structured, with clear headings and sections.
+Proper citations and references should be included for any external sources used.
+Step 4: Presentation or Report Delivery (20 points)
+
+Students should present their findings in a clear and organized manner. If they choose the presentation format, they can deliver it in class. If they opt for a report, they should submit it according to the assignment submission guidelines.
+Step 5: Q&A and Discussion (10 points)
+
+After each presentation or submission, facilitate a Q&A session or class discussion where students can ask questions and provide feedback to their peers. Encourage critical thinking and analysis.
+Grading Criteria:
+
+Selection of an appropriate cryptocurrency.
+
+Quality and depth of research.
+
+Clarity and effectiveness of the presentation or report.
+
+Proper citation and referencing of sources.
+
+Engagement and participation during the Q&A or discussion.

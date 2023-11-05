@@ -1,0 +1,34 @@
+Implementing Storage and Data Handling
+
+Objective: To delve deeper into smart contract development by using storage and handling data.
+
+Task: Challenge students to enhance their token smart contract (from Assignment 2) by implementing persistent storage for token balances. Additionally, they should create a function to query the total supply of tokens. Students should submit the updated code along with explanations of the changes they made.
+
+Instructions:
+
+Step 1: Token Smart Contract Enhancement (50 points)
+
+Instruct students to revisit the token smart contract they created in Assignment 2.
+Ask them to enhance the contract by implementing persistent storage for token balances. Each account's token balance should be stored on the blockchain so that it persists across contract invocations.
+Guide students in creating a function that allows account holders to query their token balance.
+Challenge them to create a separate function to query the total supply of tokens. This function should calculate the sum of all account balances.
+Step 2: Code Explanation (20 points)
+
+Require students to provide a detailed explanation of the changes they made to the smart contract code. They should explain how they implemented storage for token balances and how the query functions work.
+Encourage students to add comments or documentation within the code to clarify their implementation.
+Step 3: Testing and Deployment (10 points)
+
+Instruct students to thoroughly test the enhanced token smart contract on the NEO testnet.
+Ask them to provide evidence of successful testing.
+Require students to redeploy the updated contract to the testnet and share the new contract's address.
+Step 4: Documentation (10 points)
+
+Request that students update their documentation to include information about the changes made in this assignment.
+Ensure they provide clear instructions on how to query token balances and the total supply using the updated contract.
+Grading Criteria:
+
+Successful implementation of persistent storage for token balances.
+Correctness and clarity of the code changes.
+Quality of the explanations provided for the code changes.
+Evidence of thorough testing on the NEO testnet.
+Quality of the provided documentation, including information on querying balances and the total supply.

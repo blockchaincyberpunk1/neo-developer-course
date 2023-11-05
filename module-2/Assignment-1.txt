@@ -1,0 +1,39 @@
+NEO Introduction and Features
+
+Objective: To gain a basic understanding of NEO's core features.
+
+Task: Ask students to create a presentation or document that introduces NEO as a blockchain platform. They should cover key features such as digital assets, smart contracts, and the NEO Virtual Machine (NEOVM). Students should also provide examples of real-world applications of NEO.
+
+Instructions:
+
+Step 1: Research NEO Features (15 points)
+
+Instruct students to research and gather information about NEO's core features, including but not limited to:
+Digital assets and the NEO token.
+Smart contracts and their capabilities.
+The NEO Virtual Machine (NEOVM) and its role.
+Consensus mechanism used by NEO.
+Unique aspects of NEO compared to other blockchain platforms.
+Step 2: Create a Presentation or Document (30 points)
+
+Ask students to create a presentation (e.g., PowerPoint, Google Slides) or a document (e.g., Word, Google Docs) that introduces NEO's features.
+The presentation or document should be structured logically and include clear headings and sections for each feature.
+Students should use visuals, diagrams, and examples to enhance their explanations.
+Step 3: Real-World Examples (20 points)
+
+Instruct students to provide real-world examples or case studies of how NEO's features have been used in practical applications or projects. These examples can showcase NEO's advantages and real-world relevance.
+Step 4: Presentation or Document Submission (15 points)
+
+Students should submit their presentations or documents electronically as per the submission guidelines provided.
+Ensure that the format is easily accessible and can be viewed by the instructor and peers.
+Step 5: Peer Review (20 points)
+
+Conduct a peer review process where students review and provide feedback on each other's presentations or documents.
+Encourage constructive criticism and suggestions for improvement.
+Grading Criteria:
+
+Thoroughness and accuracy of information provided.
+Clarity and organization of the presentation or document.
+Use of visuals and examples to enhance understanding.
+Inclusion of real-world examples demonstrating the application of NEO's features.
+Quality of peer review feedback.

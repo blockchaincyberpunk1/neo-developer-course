@@ -1,0 +1,43 @@
+Building a Simple Blockchain
+
+Objective: To gain hands-on experience with basic blockchain development.
+
+Task: Guide students through the process of creating a simplified blockchain using a programming language of their choice (e.g., Python). They should implement the core components, including blocks, transactions, and a basic consensus mechanism. Students should submit their blockchain code along with an explanation of how it works.
+
+Instructions:
+
+Step 1: Understanding Blockchain Basics (10 points)
+
+Begin the assignment by providing a brief overview of blockchain technology, including its key components (blocks, transactions, consensus mechanisms).
+Explain the importance of blockchain's immutability, security, and decentralized nature.
+Step 2: Choosing a Programming Language (10 points)
+
+Allow students to select a programming language for their blockchain implementation. Common choices include Python, JavaScript, and Java.
+Step 3: Building the Blockchain (40 points)
+
+Provide students with a basic blockchain structure to get them started. The structure should include blocks and transactions.
+Instruct them to implement the following key features:
+Block creation and chaining: Each block should have a unique hash based on its contents and the hash of the previous block.
+Transaction mechanism: Allow students to create and add transactions to blocks.
+Consensus mechanism: Implement a basic consensus mechanism (e.g., proof-of-work) to validate and add new blocks to the blockchain.
+Step 4: Testing and Verification (20 points)
+
+Encourage students to test their blockchain thoroughly. They should create a few sample transactions, mine blocks, and verify the correctness of their implementation.
+Emphasize the importance of security and data integrity in their blockchain.
+Step 5: Documentation and Explanation (20 points)
+
+Instruct students to provide clear documentation alongside their code. The documentation should include:
+An explanation of how their blockchain works, including details about block creation, transaction validation, and consensus.
+Any design decisions they made during the implementation.
+Instructions on how to run their blockchain code.
+Step 6: Submission and Presentation (10 points)
+
+Students should submit their blockchain code and documentation.
+Optionally, you can ask them to give a brief presentation demonstrating their blockchain and explaining how it functions.
+Grading Criteria:
+
+Completion of core blockchain components (blocks, transactions, consensus).
+Correctness and functionality of the blockchain.
+Clarity and completeness of documentation.
+Presentation skills and ability to explain the blockchain's operation.
+Testing and verification of the blockchain's behavior.

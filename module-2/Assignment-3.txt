@@ -1,0 +1,37 @@
+NEO Smart Contracts Basics
+
+Objective: To learn about smart contract development on the NEO platform.
+
+Task: Guide students through the process of creating a simple NEO smart contract. Provide them with resources or development tools (e.g., NEO Visual DevTracker) to write and deploy a basic smart contract. Students should submit their smart contract code along with an explanation of its purpose and functionality.
+
+Instructions:
+
+Step 1: Introduction to NEO Smart Contracts (15 points)
+
+Start by introducing students to the concept of smart contracts and their significance in blockchain technology.
+Provide an overview of NEO's approach to smart contracts, focusing on its advantages and use cases.
+Step 2: NEO Development Tools (15 points)
+
+Introduce students to NEO development tools and resources, such as NEO Visual DevTracker or NEO Blockchain Toolkit.
+Demonstrate how to set up the development environment and configure it for NEO smart contract development.
+Step 3: Smart Contract Development (40 points)
+
+Assign students the task of creating a simple NEO smart contract. It could be a basic token contract, a voting contract, or any other straightforward use case.
+Provide guidelines on coding standards, best practices, and security considerations.
+Students should write the smart contract code and include comments to explain the purpose and functionality of the contract.
+Step 4: Deployment and Testing (20 points)
+
+Instruct students on how to deploy their smart contracts to the NEO TestNet.
+Encourage them to test the deployed contracts thoroughly to ensure they function as intended.
+Students should document their deployment and testing process.
+Step 5: Submission and Presentation (10 points)
+
+Ask students to submit their smart contract code and a document that explains the contract's functionality, usage, and any notable features.
+Optionally, students can present their smart contracts to the class, demonstrating how they work and discussing their design choices.
+Grading Criteria:
+
+Completion of a functional NEO smart contract.
+Clarity and correctness of the smart contract code.
+Thorough testing of the smart contract on the NEO TestNet.
+Quality of the explanatory document.
+Participation in the optional presentation.

@@ -1,0 +1,34 @@
+NEO Smart Contract Development (Python)
+
+Objective: To gain hands-on experience in NEO smart contract development using Python (Neo N3).
+
+Task: Similar to Assignment 3, but this time, students should choose Python (Neo N3) as the development language. They should follow a step-by-step guide to create and deploy a basic smart contract and provide documentation for their code.
+
+Instructions:
+
+Step 1: Use Case Selection (10 points)
+
+Choose a specific use case for the NEO smart contract, similar to Assignment 3.
+Ensure that the use case involves essential smart contract features like state management and transactions.
+Step 2: NEO Smart Contract Development (60 points)
+
+Provide students with resources and guidance on setting up the development environment for NEO smart contracts using Python (Neo N3).
+Guide them through the process of creating the smart contract code based on the chosen use case, using Python.
+Encourage students to implement key functions and logic within the smart contract code. These may include functions for transferring tokens, querying balances, or performing other relevant actions.
+Make sure they understand and implement proper error handling and validation within the contract.
+Step 3: Deployment and Testing (20 points)
+
+Instruct students on how to deploy the developed smart contract to the NEO blockchain (e.g., using Neo CLI or NEO-ONE).
+Guide them through the process of interacting with the deployed smart contract, such as sending transactions or querying contract state.
+Encourage them to test the smart contract thoroughly, providing test cases and sample interactions to validate its functionality.
+Step 4: Documentation and Explanations (10 points)
+
+Ask students to provide clear and concise explanations of the functions and logic implemented within the smart contract.
+Ensure they document the deployment process, including any configuration or setup required.
+Encourage them to explain how the contract can be used and any relevant insights gained during the development process.
+Grading Criteria:
+
+Completeness and accuracy of the smart contract code.
+Clarity of explanations and documentation.
+Thoroughness of testing and validation.
+Overall quality and organization of the submission.

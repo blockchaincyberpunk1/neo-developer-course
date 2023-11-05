@@ -1,0 +1,33 @@
+Token Deployment and Usage
+
+Objective: To deploy and utilize the custom token developed in Assignment 1 within the NEO ecosystem.
+
+Task: Instruct students to deploy the custom token they created in Assignment 1 to a testnet or the NEO MainNet. They should then demonstrate how this token can be used within a simple dApp or within the NEO ecosystem. Students should provide a report outlining the deployment process and the dApp's interaction with the token.
+
+Instructions:
+
+Step 1: Token Deployment (40 points)
+
+Guide students through the process of deploying the custom token to the NEO blockchain. They can choose between deploying it to a NEO testnet or the NEO MainNet.
+Ensure students follow best practices for deploying tokens, including proper token naming, precision, and compliance with NEP-5 or NEP-17 standards.
+Students should include relevant transaction hashes or deployment proof in their report.
+Step 2: dApp Integration (40 points)
+
+Instruct students to create a simple decentralized application (dApp) that utilizes the custom token.
+The dApp should include features that showcase how the token can be used within the NEO ecosystem. Examples include token transfers, staking, or using the token as a utility within a specific use case.
+Encourage students to develop an intuitive user interface for their dApp to demonstrate token interactions effectively.
+Step 3: Report (20 points)
+
+Ask students to provide a comprehensive report documenting their token deployment and dApp development.
+The report should include:
+Details of the token deployment, including the chosen network (testnet or MainNet).
+Explanations of how the dApp interacts with the custom token.
+Screenshots or code snippets demonstrating token usage within the dApp.
+Challenges encountered during deployment and development, and how they were overcome.
+Reflections on the potential real-world applications of their custom token and dApp.
+Grading Criteria:
+
+Successful deployment of the custom token to the chosen NEO network.
+Functionality and usability of the dApp in token interactions.
+Quality of the report, including clarity and completeness.
+Alignment of the dApp's features with the objective of showcasing token usage within the NEO ecosystem.

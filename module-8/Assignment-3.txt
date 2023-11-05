@@ -1,0 +1,37 @@
+Contributing to NEO-Related Open Source
+
+Objective: To encourage contributions to the NEO ecosystem and provide practical experience in open-source development.
+
+Task: Assign students a small coding project or bug-fix related to NEO or a NEO-based open-source project. They should actively contribute to the project by forking the repository, making code improvements or bug fixes, and submitting a pull request (PR). Additionally, students should document their contribution process, including the problem they addressed and the steps they followed.
+
+Instructions:
+
+Step 1: Project Selection (10 points)
+
+Provide students with a list of NEO-related open-source projects or repositories that have suitable beginner-friendly issues or coding tasks.
+Allow students to select a project based on their interests and skill level.
+Step 2: Contribution (50 points)
+
+Instruct students to:
+Fork the chosen open-source repository to their GitHub account.
+Select a specific issue or task from the project's issue tracker.
+Create a new branch for their work and make the necessary code changes to address the issue or task.
+Ensure that their code adheres to coding standards and follows best practices.
+Commit and push their changes to their forked repository.
+Submit a pull request (PR) to the original project repository, describing the problem they addressed, the changes made, and any relevant information.
+Step 3: Documentation (40 points)
+
+Students should create detailed documentation of their contribution process, which includes:
+An introduction explaining the open-source project they worked on.
+A description of the specific issue or task they addressed, including its importance or relevance.
+Step-by-step instructions on how they forked the repository, created a branch, and made code changes.
+A description of the testing and quality assurance process they followed (if applicable).
+A detailed explanation of how they submitted the pull request, including any challenges or lessons learned.
+Screenshots or code snippets to illustrate their contributions (if applicable).
+Grading Criteria:
+
+Quality and significance of the contribution to the open-source project.
+Adherence to coding standards and best practices.
+Completeness and clarity of the documentation of the contribution process.
+Submission of a meaningful pull request and active engagement with the project community.
+Ability to address and resolve any feedback or review comments on the pull request.

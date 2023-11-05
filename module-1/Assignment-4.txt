@@ -1,0 +1,45 @@
+Building a Simple AI-Powered Blockchain
+
+Objective: To gain hands-on experience with basic blockchain development while exploring the integration of artificial intelligence.
+
+Task: Guide students through the process of creating a simplified blockchain using a programming language of their choice (e.g., Python) and integrating basic artificial intelligence capabilities. They should implement the core components, including blocks, transactions, and a basic consensus mechanism, and use AI for enhanced decision-making within the blockchain. Students should submit their blockchain code along with an explanation of how AI is integrated and how it affects the blockchain's functionality.
+
+Instructions:
+
+Step 1: Understanding Blockchain Basics (10 points)
+
+Begin the assignment by providing a brief overview of blockchain technology, including its key components (blocks, transactions, consensus mechanisms).
+Explain the concept of integrating artificial intelligence into the blockchain and how it can enhance decision-making.
+Step 2: Choosing a Programming Language (10 points)
+
+Allow students to select a programming language for their blockchain implementation and AI integration. Common choices include Python, JavaScript, and Java.
+Step 3: Building the Blockchain with AI (40 points)
+
+Provide students with a basic blockchain structure to get them started. The structure should include blocks and transactions.
+Instruct them to implement the following key features:
+Block creation and chaining: Each block should have a unique hash based on its contents and the hash of the previous block.
+Transaction mechanism: Allow students to create and add transactions to blocks.
+Consensus mechanism: Implement a basic consensus mechanism (e.g., proof-of-work) to validate and add new blocks to the blockchain.
+Integration of AI: Guide students in integrating artificial intelligence to enhance decision-making within the blockchain. This can include using AI to validate transactions, predict future transactions, or optimize block mining.
+Step 4: Testing and Verification (20 points)
+
+Encourage students to test their blockchain thoroughly, especially the AI components. They should create sample transactions, mine blocks, and verify the correctness and AI-driven decision-making of their implementation.
+Step 5: Documentation and Explanation (20 points)
+
+Instruct students to provide clear documentation alongside their code. The documentation should include:
+An explanation of how their blockchain works, including details about block creation, transaction validation, and consensus.
+An explanation of how AI is integrated into the blockchain and its role in decision-making.
+Any design decisions they made during the implementation.
+Instructions on how to run their blockchain code.
+Step 6: Submission and Presentation (10 points)
+
+Students should submit their blockchain code and documentation.
+Optionally, you can ask them to give a brief presentation demonstrating their blockchain and explaining how AI enhances its functionality.
+Grading Criteria:
+
+Completion of core blockchain components (blocks, transactions, consensus).
+Correctness and functionality of the blockchain.
+Integration of AI and its impact on the blockchain's decision-making.
+Clarity and completeness of documentation.
+Presentation skills and ability to explain the blockchain's operation and AI integration.
+Testing and verification of the blockchain's behavior.

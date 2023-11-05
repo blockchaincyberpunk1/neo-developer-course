@@ -1,0 +1,44 @@
+Token Smart Contract (Basic)
+
+Objective: To build a foundational understanding of token smart contracts.
+
+Task: Instruct students to create a basic token smart contract on the NEO platform. The contract should include functions for transferring tokens between accounts and querying token balances. Students should submit the code, a brief whitepaper explaining the token's purpose, and instructions on how to interact with the contract.
+
+Instructions:
+
+Step 1: Environment Setup (10 points)
+
+Ensure that students have a NEO development environment set up and access to a NEO testnet for deployment and testing.
+Step 2: Token Smart Contract Development (50 points)
+
+Provide students with a basic template for a token smart contract in a programming language of their choice (e.g., C#, Python).
+Ask them to modify the template to create a basic token smart contract. The contract should include the following functions:
+A function to initialize the token with a total supply and assign it to the contract owner's address.
+Functions to allow transferring tokens between accounts.
+Functions to query token balances for specific accounts.
+Ensure students add comments or documentation within the code to explain their implementation.
+Step 3: Token Whitepaper (20 points)
+
+Require students to create a brief whitepaper (1-2 pages) explaining the purpose of the token. The whitepaper should include information about:
+What the token represents (e.g., utility, governance, asset-backed).
+The total supply and distribution mechanism.
+Any unique features or use cases for the token.
+How the token smart contract functions support its purpose.
+Step 4: Testing and Deployment (10 points)
+
+Instruct students to thoroughly test their token smart contract on the NEO testnet.
+Ask them to provide evidence of successful testing.
+Require students to deploy the token smart contract to the testnet and share the contract's address.
+Step 5: Documentation (10 points)
+
+Request that students create clear documentation that explains:
+How to interact with the token smart contract (e.g., calling functions to transfer tokens).
+How to query token balances.
+The contract's deployment process and address on the testnet.
+Grading Criteria:
+
+Successful development and deployment of the basic token smart contract.
+Correctness and clarity of the code.
+Quality of the whitepaper and its alignment with the token's purpose.
+Evidence of thorough testing on the NEO testnet.
+Quality of the provided documentation.

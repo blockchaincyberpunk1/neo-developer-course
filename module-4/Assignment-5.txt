@@ -1,0 +1,38 @@
+Building a Decentralized Application (dApp)
+
+Objective: To apply smart contract development skills to build a simple dApp on the NEO platform.
+
+Task: Challenge students to build a basic decentralized application (dApp) on the NEO blockchain. The dApp should have a specific use case, such as a decentralized voting system, a token-based game, or any other creative idea. Students should create both the smart contract and, if applicable, a basic user interface (UI) to interact with the smart contract. They should submit the code, user instructions, and a brief description of their dApp's purpose.
+
+Instructions:
+
+Step 1: dApp Concept Selection (10 points)
+
+Instruct students to choose a specific use case or concept for their decentralized application. Encourage creativity and innovation.
+They should provide a clear and concise description of the dApp's purpose and functionality.
+Step 2: Smart Contract Development (40 points)
+
+Guide students in developing the NEO smart contract that powers their dApp.
+Ensure that the contract includes all necessary functions and logic to fulfill the dApp's purpose.
+Encourage code quality, readability, and documentation.
+Step 3: User Interface (UI) Development (if applicable) (20 points)
+
+If students choose to include a user interface for their dApp, guide them in developing a basic UI.
+The UI can be a web-based interface or a command-line interface, depending on the complexity of the dApp.
+Students should ensure that the UI is user-friendly and allows users to interact with the smart contract seamlessly.
+Step 4: Testing and Deployment (20 points)
+
+Instruct students to thoroughly test their dApp and smart contract on the NEO testnet.
+They should provide evidence of successful testing, including interactions with the smart contract.
+Ensure that students deploy their dApp on the NEO testnet and provide deployment instructions.
+Step 5: User Instructions (10 points)
+
+Ask students to provide clear and concise instructions on how users can interact with their dApp and smart contract.
+Include details on how to access and use the dApp, including any required tools or software.
+Grading Criteria:
+
+Selection of an innovative and well-defined dApp concept.
+Successful development of a NEO smart contract that powers the dApp.
+Quality and usability of the user interface (if applicable).
+Thorough testing and deployment on the NEO testnet.
+Clarity and completeness of user instructions.

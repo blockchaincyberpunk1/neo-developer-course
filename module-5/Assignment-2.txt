@@ -1,0 +1,33 @@
+Smart Contract Development
+
+Objective: To help students practice developing smart contracts for their NEO dApps.
+
+Task: Instruct students to create a NEO smart contract that aligns with the dApp concept proposed in Assignment 1. The smart contract should include relevant functions and logic to support the dApp's core functionality. Students should submit the smart contract code along with documentation explaining its use within the dApp.
+
+Instructions:
+
+Step 1: Smart Contract Development (50 points)
+
+Encourage students to develop a NEO smart contract using the NEO-supported programming language of their choice (e.g., C#, Python Neo N3).
+The smart contract should be designed to support the core functionality of their proposed dApp. This may include functionalities like token management, voting mechanisms, game rules, or any other specific features relevant to the dApp concept.
+Students should ensure that the smart contract code is well-documented, follows best practices, and is free from critical errors.
+Step 2: Documentation (20 points)
+
+Ask students to provide detailed documentation explaining how the smart contract works within the context of their dApp.
+Documentation should include explanations of the functions, methods, and variables used in the smart contract.
+Students should also clarify how users will interact with the smart contract and what actions can be performed.
+Step 3: Integration with dApp Concept (20 points)
+
+Instruct students to describe how the smart contract integrates with and supports the dApp concept proposed in Assignment 1.
+They should explain how the smart contract enables the dApp to achieve its goals and deliver value to users.
+Step 4: Testing and Deployment (10 points)
+
+Encourage students to test their smart contract on a NEO blockchain testnet (e.g., NEO TestNet).
+While not mandatory for this assignment, students can optionally include information about the testing process and any challenges they encountered.
+Grading Criteria:
+
+Completeness and correctness of the smart contract code.
+Quality and clarity of the smart contract documentation.
+Alignment of the smart contract with the proposed dApp concept.
+Clear explanations of how the smart contract contributes to the dApp's functionality.
+Optional testing and deployment considerations (if provided).

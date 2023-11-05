@@ -1,0 +1,39 @@
+Best Practices Documentation
+
+Objective: To document best practices in NEO blockchain application development and contribute to the NEO community's knowledge base.
+
+Task: Instruct students to create a comprehensive guide or documentation on best practices for developing applications on the NEO blockchain. This guide should cover essential topics and insights that can benefit both novice and experienced developers. Emphasize the importance of clarity and practicality in the documentation.
+
+Instructions:
+
+Step 1: Select Topics (10 points)
+
+Provide students with a list of topics related to NEO blockchain application development. Suggested topics include:
+Smart contract security.
+Token standards (e.g., NEP-5 or NEP-17).
+Deployment strategies (e.g., MainNet vs. TestNet).
+Developer tools and resources.
+Best practices for decentralized application (dApp) design.
+Allow students to select at least two topics of their choice.
+Step 2: Research and Documentation (60 points)
+
+Instruct students to conduct research on their chosen topics, gather relevant information, and create detailed documentation.
+For each selected topic, students should:
+Explain the importance and relevance of the topic.
+Provide clear, step-by-step instructions and guidelines for best practices.
+Include examples, code snippets, and practical tips.
+Highlight common pitfalls and how to avoid them.
+Reference credible sources and community-contributed knowledge.
+Offer insights or case studies from real-world NEO projects.
+Step 3: Create a Comprehensive Guide (20 points)
+
+Require students to compile their individual topic-specific documentation into a comprehensive guide on NEO blockchain application development.
+The guide should have a clear table of contents, introductions to each topic, and appropriate formatting for readability.
+Step 4: Peer Review (10 points)
+
+Encourage students to exchange their guides with peers for review and feedback.
+Students should provide constructive comments and suggestions for improvement.
+Step 5: Final Submission and Sharing (10 points)
+
+Students should submit their comprehensive guides as a final document.
+Instruct students to share their guides with the NEO community by publishing them on relevant forums, blogs, or NEO developer community platforms.

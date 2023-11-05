@@ -1,0 +1,42 @@
+Token Development on NEO
+
+Objective: To create a custom token on the NEO blockchain.
+
+Task: Instruct students to develop a custom token on the NEO platform. They should choose between NEP-5 or NEP-17 token standards and implement the token with specific functionalities. The assignment should include deploying the token on the NEO blockchain and providing documentation on how to interact with it.
+
+Instructions:
+
+Step 1: Choose a Token Standard (10 points)
+
+Ask students to choose between the NEP-5 or NEP-17 token standard for their token development.
+NEP-5: Neo Enhancement Proposal 5, a fungible token standard.
+NEP-17: Neo Enhancement Proposal 17, a non-fungible token standard.
+Step 2: Token Development (30 points)
+
+Instruct students to develop a custom token using their chosen standard. They should implement the following functionalities:
+Token creation with a specific name, symbol, and total supply.
+Transfer functionality for users to send tokens to each other.
+Optional functionalities based on the chosen token standard (e.g., for NEP-17, additional methods to handle non-fungible assets).
+Step 3: Smart Contract Deployment (20 points)
+
+Require students to deploy the developed token as a smart contract on the NEO blockchain.
+They should use NEO development tools and test networks for deployment and testing purposes.
+Ensure that students follow best practices for smart contract deployment, including security considerations.
+Step 4: Interactions and Documentation (20 points)
+
+Ask students to provide detailed documentation on how to interact with their custom token.
+Documentation should include instructions for:
+Creating a NEO wallet (if required).
+Checking token balances.
+Sending and receiving tokens.
+Any additional functionalities specific to their token.
+Step 5: Testing (10 points)
+
+Encourage students to thoroughly test their token smart contract on NEO's testnet or other appropriate test environments.
+Students should ensure that the token functions as expected and is free from critical bugs or vulnerabilities.
+Grading Criteria:
+
+Successful development of a custom token adhering to the chosen NEP standard.
+Proper deployment of the token smart contract on the NEO blockchain.
+Clarity and completeness of the provided documentation.
+Evidence of thorough testing and validation of the token's functionality.

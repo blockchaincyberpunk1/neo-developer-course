@@ -1,0 +1,40 @@
+Tokenomics and Whitepaper for Custom NEO Token
+
+Objective: To understand the economic aspects of token development.
+
+Task: Ask students to write a tokenomics and whitepaper document for the custom token they developed in Assignment 1. The document should explain the purpose of the token, its use cases, distribution model, and economic incentives. Students should also create a presentation summarizing the key points.
+
+Instructions:
+
+Step 1: Tokenomics Document (40 points)
+
+Instruct students to write a comprehensive tokenomics document for their custom NEO token.
+The document should cover the following key aspects:
+Token Purpose: Explain the purpose and utility of the token within the NEO ecosystem.
+Use Cases: Describe the various use cases of the token, both within and outside of the NEO blockchain.
+Token Distribution: Outline the token distribution model, including any initial coin offerings (ICOs), airdrops, or other mechanisms.
+Economic Incentives: Detail the incentives for holding, using, and staking the token. Explain any mechanisms for rewarding token holders.
+Token Supply: Provide information on the total token supply, token burning (if applicable), and how new tokens are minted (if necessary).
+Governance (if applicable): If the token is involved in a governance system, describe how it functions and how decisions are made.
+Students should ensure that their document is clear, well-structured, and supported by data and research.
+Step 2: Whitepaper Document (40 points)
+
+Request students to create a whitepaper document that delves deeper into the technical aspects of their custom token.
+The whitepaper should include the following sections:
+Abstract: A brief summary of the tokenomics and technical details.
+Introduction: An overview of the problem the token aims to solve.
+Technical Details: Detailed information on the token's smart contract, architecture, and technical specifications.
+Security Measures: Explain the security measures taken to safeguard the token and its users.
+Roadmap: Present a roadmap outlining future developments and enhancements.
+The whitepaper should be well-researched, technically accurate, and professionally presented.
+Step 3: Presentation (20 points)
+
+Instruct students to create a presentation summarizing the key points from their tokenomics and whitepaper documents.
+The presentation should be concise and visually engaging, focusing on the most important aspects of their custom token.
+Encourage students to practice effective communication and presentation skills.
+Grading Criteria:
+
+Quality and completeness of the tokenomics document.
+Clarity and professionalism of the whitepaper document.
+Effectiveness of the presentation in summarizing key points.
+Alignment of the token's purpose, use cases, and incentives.

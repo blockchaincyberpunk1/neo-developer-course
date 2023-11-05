@@ -1,0 +1,37 @@
+NEO Governance Model Analysis
+
+Objective: To explore NEO's governance model and its implications.
+
+Task: Instruct students to analyze NEO's governance model and create a presentation or infographic summarizing its key components. They should explain how decisions are made, who the key stakeholders are, and how the governance model impacts the NEO ecosystem. Students should also provide examples of significant governance decisions in NEO's history.
+
+Instructions:
+
+Step 1: Research NEO Governance (30 points)
+
+Task students with researching and studying NEO's governance model.
+Encourage them to explore NEO's official documentation, research papers, articles, and other relevant resources to gain insights into how NEO's governance functions.
+Step 2: Presentation or Infographic (40 points)
+
+Instruct students to create either a presentation or an infographic to summarize key aspects of NEO's governance model.
+The presentation should include the following components:
+An explanation of how decisions are made within NEO's governance model.
+Identification of key stakeholders and their roles in governance.
+Discussion of how the governance model impacts the NEO ecosystem, including aspects like network upgrades and protocol changes.
+Visual aids, diagrams, or charts to illustrate key points.
+Encourage creativity in design and content layout.
+Step 3: Governance Examples (20 points)
+
+Ask students to provide examples of significant governance decisions or events in NEO's history.
+They should explain the context, the decision-making process, and the outcomes of these events.
+Encourage critical analysis of how governance decisions have shaped NEO's development and direction.
+Step 4: Implications and Reflection (10 points)
+
+Conclude the presentation or infographic with a reflection on the implications of NEO's governance model.
+Encourage students to discuss how NEO's governance model aligns with its goals and values.
+Grading Criteria:
+
+Quality and depth of research on NEO's governance model.
+Clarity and completeness of the presentation or infographic.
+Effectiveness of visual aids in conveying key information.
+Insightful analysis of significant governance decisions and their impact.
+Thoughtful reflection on the implications of NEO's governance model.

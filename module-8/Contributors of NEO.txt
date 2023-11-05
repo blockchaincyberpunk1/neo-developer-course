@@ -1,0 +1,113 @@
+Contributors of NEO - Core Developers and Ecosystem
+
+Introduction
+Neo, often referred to as "Ethereum of China," is a prominent blockchain platform known for its innovative dual token mechanism and commitment to fostering a vibrant ecosystem. At the heart of Neo's success lie its core developers, a group of exceptionally skilled individuals who dedicate their expertise to advancing Neo's core protocol. This essay explores the key contributors to the Neo ecosystem, including core developers and the communities that support Neo's growth.
+
+Core Developers of Neo
+Neo's core developers play a pivotal role in shaping the platform's future. While Neo is open to contributions from anyone, core developers possess the authority to review and merge pull requests. Their dedication to maintaining and enhancing Neo's core protocol is instrumental in ensuring the platform's continued growth. Let's delve into some of the notable core developers who have left an indelible mark on Neo:
+
+1. Erik Zhang - Founder of Neo and Author of dBFT
+
+Erik Zhang, known as 张铮文, is one of the co-founders of Neo.
+He is the visionary behind Neo's groundbreaking consensus mechanism called dBFT (Delegated Byzantine Fault Tolerance).
+Erik Zhang's contributions have been instrumental in Neo's journey from inception to prominence.
+2. Fernando Díaz Toledano - Security Expert and Founder of RED4SEC
+
+Fernando Díaz Toledano, also known as SHARGON, is a renowned security expert.
+He is the founder of RED4SEC and has made significant contributions to Neo's security infrastructure.
+Fernando's expertise ensures the robustness of Neo's ecosystem.
+3. Harry Pierson - Chief Architect at NGD Enterprise
+
+Harry Pierson serves as the Chief Architect at NGD Enterprise.
+His role involves architecting and developing key components of Neo's blockchain.
+Harry's contributions are pivotal in Neo's enterprise-grade blockchain solutions.
+4. Igor M. Coelho - Co-Founder of NeoResearch and Researcher
+
+Igor M. Coelho is a co-founder of NeoResearch, a community dedicated to research and development on the Neo blockchain.
+He is a researcher and professor, contributing valuable insights to Neo's academic foundation.
+5. Roman Khimov - Principal Software Engineer at NEO SPCC
+
+Roman Khimov holds a key position as a Principal Software Engineer at NEO SPCC.
+His expertise in software engineering strengthens Neo's technical capabilities.
+6. Victor Nazario Coelho - Co-Founder of NeoResearch and Researcher
+
+Victor Nazario Coelho, another co-founder of NeoResearch, is a dedicated researcher.
+His work benefits Neo's ecosystem by advancing research and development efforts.
+These core developers form the backbone of Neo's technical prowess. Their relentless pursuit of excellence ensures that Neo remains a formidable force in the blockchain space.
+
+Ecosystem-Supporting Communities
+In addition to its core developers, Neo's ecosystem thrives due to the support of various self-governed communities worldwide. These communities contribute to Neo's growth in diverse ways, including the development of tools, infrastructure, and educational initiatives. Here are some notable Neo-supporting communities:
+
+1. City of Zion (COZ)
+
+COZ is a renowned software development group specializing in blockchain technologies.
+It has played a pivotal role in Neo's development, contributing to projects like the Neon wallet and Neo Python suite.
+COZ's commitment to innovation has solidified its reputation as a respected development organization.
+2. NeoResearch
+
+NeoResearch is an open-source community focused on teaching, researching, and applied development for blockchain technology.
+Their emphasis on monitoring, analysis, testing, and experimentation contributes to the Neo ecosystem's robustness.
+3. Neo St Petersburg Competence Center (Neo SPCC)
+
+Neo SPCC is actively working on Neo ecosystem projects with the support of the Neo Foundation.
+They are engaged in developing NeoFS and NeoGo, high-performance Neo node implementation and SDK for Go programming language.
+4. NEXT
+
+NEXT is an internet application lab dedicated to delivering Neo open network infrastructure services.
+It serves as a dApp incubator, encouraging more developers to join the Neo community and drive innovation in the blockchain sector.
+5. AxLabs
+
+AxLabs is a community focused on enhancing Developer Experience (DevEx) in the Neo Ecosystem.
+They provide tools like the neow3j SDK and the Neo Playground to streamline smart contract development.
+6. Neo Tracker
+
+NEO Tracker is behind NEO•ONE and NEO Tracker tools.
+NEO•ONE is an open-source framework simplifying Neo dApp development.
+NEO Tracker offers a blockchain explorer and web wallet for Neo users.
+7. NewEconoLabs (NEL)
+
+NEL is a Chinese developer community committed to improving Neo's ease of use.
+They have developed and maintained various blockchain tools, including wallets and online contract development tools.
+8. Alienworks
+
+Alienworks is a global group of developers dedicated to building tools and resources for Neo's ecosystem and beyond.
+Their goal is to support the development of a future-oriented smart economy in the crypto world.
+9. Red4Sec
+
+Red4Sec is a cybersecurity company based in Madrid, Spain, with expertise in blockchain technologies and code audits.
+They have partnered with Neo and other blockchain projects to enhance security.
+10. Neo News Today
+- Neo News Today is a community-run news website focused on delivering up-to-date information on the Neo ecosystem.
+- Their commitment to accuracy and reliability makes them a valuable resource for the Neo community.
+
+Neo Foundation and Neo Global Development (NGD)
+The Neo Foundation plays a pivotal role in setting the strategic direction for the Neo project and distributing funding to various groups for execution. Led by project founders Da Hongfei and Erik Zhang, the Neo Foundation collaborates with Neo Global Development (NGD), the main execution arm responsible for business development, marketing, events management, and direct technical support to partner organizations.
+
+Outstanding Contributors
+Neo's open-source nature attracts contributors from diverse backgrounds. Some contributors have made remarkable, albeit shorter-term, contributions to the project. They deserve special acknowledgment for their impact on the Neo ecosystem.
+
+Industry Collaboration
+Neo's commitment to leadership in the blockchain space extends beyond its own ecosystem. Neo has actively collaborated with various groups to advance blockchain standards and adoption across traditional industries. These collaborations strengthen Neo's position as a pioneering blockchain platform:
+
+1. InterWork Alliance
+
+Neo initiated the InterWork Alliance (IWA), a non-profit organization aimed at developing and promoting tokenization standards.
+The IWA seeks to bring together different blockchain networks and has prominent members like Microsoft, Accenture, IBM, Nasdaq, and UBS.
+2. PolyNetwork
+
+Neo is a founding member of Poly Network, an interoperability protocol supporting multiple blockchains.
+Poly Network enhances scalability and interoperability, making it an essential component of Neo's ecosystem.
+3. .NET Foundation
+
+Neo is the first blockchain member of the .NET Foundation, collaborating on open-source projects and tools.
+This collaboration empowers developers to build the foundation for the Smart Economy using .NET technologies.
+4. Blockchain-based Services Network (BSN)
+
+Neo partnered with BSN, a global infrastructure for blockchain projects.
+BSN integrates Neo blockchain into its network, simplifying adoption and accessibility.
+5. IEEE
+
+NGD chaired the creation of IEEE standard P3215 for blockchain consensus frameworks.
+This standard sets guidelines for blockchain consensus mechanisms, contributing to blockchain's standardization.
+Conclusion
+Neo's journey from a visionary concept to a thriving blockchain platform is a testament to the dedication and expertise of its core developers and the unwavering support of its communities. The collaboration with industry leaders and the commitment to open-source principles have positioned Neo as a pioneer in the blockchain space. As Neo continues to evolve and innovate, its contributors will remain at the forefront of this transformative journey, shaping the future of blockchain technology.

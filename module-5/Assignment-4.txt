@@ -1,0 +1,32 @@
+Backend Integration
+
+Objective: To demonstrate the integration between the frontend and smart contract backend.
+
+Task: Instruct students to integrate the frontend developed in Assignment 3 with the NEO smart contract created earlier. They should ensure that the frontend accurately communicates with the blockchain and the smart contract for data retrieval and transactions. Students should submit the integrated code and documentation of the integration process.
+
+Instructions:
+
+Step 1: Integration (60 points)
+
+Task students with integrating the frontend (developed in Assignment 3) with the NEO smart contract created in Assignment 2.
+Ensure that the frontend can accurately communicate with the blockchain to perform transactions and retrieve data from the smart contract.
+Students should implement functions and scripts in their frontend code to handle interactions with the smart contract, such as sending transactions and querying contract data.
+Step 2: Documentation (20 points)
+
+Ask students to provide detailed documentation explaining the integration process.
+This documentation should include code snippets and explanations of how the frontend and smart contract interact.
+Students should clarify the roles of different components in the integration and describe how data flows between them.
+Step 3: Testing (10 points)
+
+Encourage students to test the integrated frontend and smart contract thoroughly.
+They should demonstrate that transactions can be successfully initiated from the frontend, data retrieval works as expected, and the integration is free from critical errors.
+Step 4: User Documentation (10 points)
+
+Instruct students to update the user documentation provided in Assignment 3 to reflect the integrated frontend and backend.
+Ensure that the user documentation explains how users can interact with the fully functional dApp.
+Grading Criteria:
+
+Successful integration between the frontend and smart contract.
+Accuracy and completeness of documentation describing the integration process.
+Successful testing and demonstration of integrated functionality.
+Clarity and completeness of updated user documentation.

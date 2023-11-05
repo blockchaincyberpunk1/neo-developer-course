@@ -1,0 +1,42 @@
+Smart Contract Security Audit for NEO dApp
+
+Objective: To assess and enhance smart contract security skills.
+
+Task: Assign students the role of a security auditor. They should analyze the smart contract code of a NEO-based dApp (either their own or a provided example) and identify potential security vulnerabilities. Students should then propose improvements to mitigate these vulnerabilities and provide a report with recommendations.
+
+Instructions:
+
+Step 1: Selecting the dApp (10 points)
+
+If students have their own NEO-based dApp developed in previous assignments, they can choose to audit that. Otherwise, provide them with a sample NEO-based dApp with known vulnerabilities.
+Step 2: Security Audit (40 points)
+
+Instruct students to conduct a thorough security audit of the selected NEO-based smart contract.
+They should analyze the smart contract code line by line to identify potential vulnerabilities such as:
+Reentrancy issues
+Integer overflow/underflow
+Unauthorized access
+Logic errors
+Denial of Service (DoS) attacks
+Students should use static analysis tools (e.g., NeoCompiler) and manual code review techniques to identify vulnerabilities.
+Encourage students to provide explanations for each identified vulnerability and rate their severity.
+Step 3: Vulnerability Mitigation (30 points)
+
+Request students to propose improvements and code changes to mitigate the identified vulnerabilities.
+They should provide detailed code snippets or pseudocode to demonstrate how the issues can be fixed.
+Emphasize best practices for NEO smart contract security, such as proper input validation and safe integer arithmetic.
+Step 4: Recommendations Report (20 points)
+
+Instruct students to compile their findings and recommendations into a comprehensive security audit report.
+The report should include:
+An executive summary summarizing the key findings and proposed solutions.
+A detailed explanation of each identified vulnerability and its potential impact.
+Recommendations for improving the security of the smart contract.
+Code snippets or pseudocode demonstrating the proposed fixes.
+Encourage students to use a professional tone and format for their reports.
+Grading Criteria:
+
+Thoroughness and accuracy of the security audit.
+Clarity and effectiveness of proposed vulnerability mitigations.
+Quality and professionalism of the security audit report.
+Alignment of proposed fixes with NEO smart contract security best practices.

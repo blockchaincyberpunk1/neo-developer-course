@@ -1,0 +1,35 @@
+NEO Protocol Update Report
+
+Objective: To keep students informed about NEO protocol updates and enhance their understanding of the NEO blockchain's evolving technology.
+
+Task: Instruct students to research and write a comprehensive report on a recent NEO protocol update or enhancement. They should explain the changes made, the motivations behind these changes, and the potential impact of the update on the NEO ecosystem. This assignment will help students stay current with NEO's evolving technology.
+
+Instructions:
+
+Step 1: Select a Protocol Update (10 points)
+
+Provide students with a list of recent NEO protocol updates or enhancements.
+Allow students to choose one specific update that interests them and aligns with the course objectives.
+Step 2: Research and Report (60 points)
+
+Instruct students to research the chosen protocol update and create a detailed report including:
+An introduction explaining the significance of the update and its role in NEO's development.
+A description of the specific changes or enhancements made in the update.
+The technical details of the update, including any changes to consensus mechanisms, smart contract functionality, or other core components.
+The motivations and objectives behind implementing this update.
+A discussion of how the update affects NEO's performance, scalability, security, or other key aspects.
+Examples or use cases that illustrate how the update benefits the NEO ecosystem.
+A comparison with the previous version of the protocol, highlighting key improvements.
+A summary of community reactions or feedback regarding the update.
+Step 3: Presentation (30 points)
+
+Require students to prepare a brief presentation summarizing their report.
+Each student should present their findings to the class, highlighting the most critical aspects of the protocol update.
+Encourage students to engage in discussions and answer questions from their peers.
+Grading Criteria:
+
+Thoroughness and accuracy of the report, including comprehensive coverage of the chosen protocol update.
+Clarity and organization of the report's content.
+Ability to explain the technical details of the update in an understandable manner.
+Analysis of the motivations behind the update and its potential impact on NEO.
+Quality of the presentation, including clear communication of key points.

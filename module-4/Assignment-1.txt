@@ -1,0 +1,35 @@
+Hello World Smart Contract
+
+Objective: To introduce students to NEO smart contract development.
+
+Task: Ask students to create a simple "Hello World" smart contract on the NEO platform. The contract should accept a string as input and return a greeting message. Students should submit the code and provide documentation explaining the contract's logic and functions.
+
+Instructions:
+
+Step 1: Environment Setup (10 points)
+
+Instruct students to set up their development environment for NEO smart contract development. They can use tools like the NEO Visual DevTracker or NEO Developer Tool.
+Ensure they have access to a NEO testnet for deployment and testing.
+Step 2: Smart Contract Development (40 points)
+
+Provide students with a basic template for a NEO smart contract in a programming language of their choice (e.g., C#, Python).
+Ask them to modify the template to create a "Hello World" smart contract.
+The smart contract should accept a single string parameter (e.g., a name) and return a greeting message (e.g., "Hello, [Name]!").
+Ensure students add comments or documentation within the code to explain their implementation.
+Step 3: Testing and Deployment (20 points)
+
+Instruct students to test their smart contract on the NEO testnet. They should provide evidence of successful testing.
+Ask them to deploy the smart contract to the testnet and share the contract's address.
+Step 4: Documentation (20 points)
+
+Require students to create clear and concise documentation that explains the following:
+The purpose and functionality of the smart contract.
+Any important variables or functions within the contract.
+How to interact with the contract (e.g., calling it with input).
+The contract's deployment process and address on the testnet.
+Grading Criteria:
+
+Successful development and deployment of the "Hello World" smart contract.
+Clarity and correctness of the code.
+Quality of the documentation provided.
+Evidence of testing on the NEO testnet.

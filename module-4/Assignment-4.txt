@@ -1,0 +1,33 @@
+Invoking External Contracts
+
+Objective: To introduce students to invoking other smart contracts within NEO.
+
+Task: Assign students to create a smart contract that interacts with an existing NEO contract. They should choose a well-known NEO contract (e.g., a NEO token contract) and develop a contract that interacts with it (e.g., transferring tokens). Students should submit their code, documentation of the interaction, and any challenges they encountered.
+
+Instructions:
+
+Step 1: Selecting an External Contract (10 points)
+
+Instruct students to choose a well-established NEO smart contract to interact with. Examples include the NEO token contract or other widely used NEO-based contracts.
+Encourage them to research and understand the chosen contract's functions and capabilities.
+Step 2: Smart Contract Development (40 points)
+
+Guide students in developing a new smart contract that interacts with the chosen external contract.
+The interaction can involve tasks such as transferring tokens, querying balances, or invoking specific functions of the external contract.
+Ensure that the students' contract code includes the necessary logic for interacting with the chosen external contract.
+Step 3: Testing (20 points)
+
+Instruct students to thoroughly test their smart contract on the NEO testnet.
+Ask them to document their testing process and provide evidence of successful interactions with the external contract.
+Encourage them to test various scenarios to ensure their contract works correctly.
+Step 4: Documentation (20 points)
+
+Request that students provide clear documentation of the interaction between their smart contract and the chosen external contract.
+Encourage them to explain the purpose of their smart contract and the specific interactions they implemented.
+Ask students to document any challenges they faced during development and testing and how they overcame them.
+Grading Criteria:
+
+Selection of a suitable external contract.
+Successful development of a smart contract that interacts with the chosen external contract.
+Evidence of thorough testing and successful interactions with the external contract on the NEO testnet.
+Quality of the documentation, including explanations of the interaction and any challenges faced.
